@@ -1,0 +1,27 @@
+{
+  "type": "r2aot:enchanting_charge",
+  "output": {
+    "item": "minecraft:apple"
+  },
+  "pedestalItems": [
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "ars_nouveau:wilden_horn"
+    }
+  ],
+  "sourceCost": 0,
+  "energyCost": 1000
+}

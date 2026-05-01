@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "facing=north,energy=0": { "model": "r2aot:block/rune_black_0", "y": 180 },
+    "facing=north,energy=1": { "model": "r2aot:block/rune_black_1", "y": 180 },
+    "facing=north,energy=2": { "model": "r2aot:block/rune_black_2", "y": 180 },
+    "facing=north,energy=3": { "model": "r2aot:block/rune_black_3", "y": 180 },
+    "facing=north,energy=4": { "model": "r2aot:block/rune_black_4", "y": 180 },
+    "facing=east,energy=0": { "model": "r2aot:block/rune_black_0", "y": 270 },
+    "facing=east,energy=1": { "model": "r2aot:block/rune_black_1", "y": 270 },
+    "facing=east,energy=2": { "model": "r2aot:block/rune_black_2", "y": 270 },
+    "facing=east,energy=3": { "model": "r2aot:block/rune_black_3", "y": 270 },
+    "facing=east,energy=4": { "model": "r2aot:block/rune_black_4", "y": 270 },
+    "facing=south,energy=0": { "model": "r2aot:block/rune_black_0" },
+    "facing=south,energy=1": { "model": "r2aot:block/rune_black_1" },
+    "facing=south,energy=2": { "model": "r2aot:block/rune_black_2" },
+    "facing=south,energy=3": { "model": "r2aot:block/rune_black_3" },
+    "facing=south,energy=4": { "model": "r2aot:block/rune_black_4" },
+    "facing=west,energy=0": { "model": "r2aot:block/rune_black_0", "y": 90 },
+    "facing=west,energy=1": { "model": "r2aot:block/rune_black_1", "y": 90 },
+    "facing=west,energy=2": { "model": "r2aot:block/rune_black_2", "y": 90 },
+    "facing=west,energy=3": { "model": "r2aot:block/rune_black_3", "y": 90 },
+    "facing=west,energy=4": { "model": "r2aot:block/rune_black_4", "y": 90 }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "r2aot:rune_black",
+  "input": {
+    "item": "botania:black_lotus"
+  },
+  "output": {
+    "item": "botania:blacker_lotus"
+  },
+  "energy_cost": 25
+}
